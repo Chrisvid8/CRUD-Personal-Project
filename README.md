@@ -14,8 +14,10 @@ A full-stack CRUD dashboard application built with:
 - **Backend Code:** [GitHub Repo](https://github.com/Chrisvid8/CRUD-Backend)
 
 ## 📸 Screenshots
-![Dashboard Screenshot](assets/dashboard.png)
-![Item Management Screenshot](assets/item-management.png)
+<p align="center">
+  <img src="assets/dashboard.png" alt="Dashboard Screenshot" width="500"/>
+  <img src="assets/item-management.png" alt="Item Management Screenshot" width="500"/>
+</p>
 
 ## 🛠️ Technologies Used
 - **Frontend:** React, Axios
