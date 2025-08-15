@@ -1,5 +1,10 @@
 # CRUD-Personal-Project
 
+- Implemented full CRUD functionality (Create, Read, Update, Delete) for managing data.
+- Built with a responsive frontend and secure backend API integration.
+- Integrated PostgreSQL database with RESTful API using Flask.
+- Deployed using cloud services for both frontend and backend.
+
 A full-stack CRUD dashboard application built with:
 - **Frontend:** React (Vercel)
 - **Backend:** Flask (Render)
