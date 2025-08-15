@@ -15,8 +15,8 @@ A full-stack CRUD dashboard application built with:
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="assets/dashboard.png" alt="Dashboard Screenshot" width="500"/>
-  <img src="assets/item-management.png" alt="Item Management Screenshot" width="500"/>
+  <img src="assets/dashboard.png" alt="Dashboard Screenshot" width="500" height="300"/>
+  <img src="assets/item-management.png" alt="Item Management Screenshot" width="500" height="300"/>
 </p>
 
 ## 🛠️ Technologies Used
